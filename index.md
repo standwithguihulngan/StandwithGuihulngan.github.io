@@ -1,8 +1,8 @@
-title: Welcome to the Stand with Guihulngan website
+# Welcome to the Stand with Guihulngan website!
 
-description: Know about the latest activities and projects in our campaign here!
+_ **Know about the latest activities and projects in our campaign here!
 
-You can use the [editor on GitHub](https://github.com/standwithguihulngan/StandwithGuihulngan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
